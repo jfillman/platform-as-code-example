@@ -14,3 +14,4 @@ Terraform DSL
 
 `terraform apply`
 
+https://dzone.com/articles/platform-as-code-with-openshift-amp-terraform
